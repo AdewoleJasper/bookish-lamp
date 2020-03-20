@@ -1,1 +1,1 @@
-# bookish-lamp
+# MNIST Digit Recognition
